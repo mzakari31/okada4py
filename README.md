@@ -1,5 +1,5 @@
 # okada4py
-Okada implementation in Python with build action on github
+Okada implementation in Python with build action on github 
 
 ## Citation
 This is a python implementation of the solution proposed by Okada in 1992. Please cite:
