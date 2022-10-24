@@ -17,7 +17,7 @@ jobs:
     - name: Add conda to system path
       run: |
         export CC=gcc
-        pip install numpy
+        pip install numpy matplotlib
         python setup.py build
         python setup.py install --user
         cd tp4
