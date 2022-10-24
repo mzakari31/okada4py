@@ -1,0 +1,5 @@
+#!/bin/bash
+export CC=gcc
+pip install numpy matplotlib scipy
+python setup.py build
+python setup.py install --user
