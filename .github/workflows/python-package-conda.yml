@@ -20,4 +20,5 @@ jobs:
         pip install numpy
         python setup.py build
         python setup.py install --user
-        ls
+        cd tp4
+        python parkfinv.py
