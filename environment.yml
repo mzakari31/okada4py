@@ -1,0 +1,9 @@
+name: example-environment
+
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pip:
+    - matplotlib
+    - scipy
