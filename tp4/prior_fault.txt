@@ -1,0 +1,2 @@
+#	East(UTM)	North(UTM)	Depth(km)	Lenght(km)	 Width(km)	strike(˚)	dip(˚)		
+ -6.35      8.8     8.0     10.0    10.0    -37.6       90.0  
